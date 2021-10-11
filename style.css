@@ -1,0 +1,35 @@
+body{
+    background: url("./images/London2019-19.jpg");
+    height: 95vh;
+    width: 98vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.main{
+    height: 50vh;
+    width: 25vw;
+    background-color: rgba(245, 162, 94, 0.685);
+    padding: 10px;
+    text-align: justify;
+}
+.align{
+    display: flex;
+    padding-left: 10px;
+    /* padding-top: -10px; */
+    align-items: center;
+    justify-content: flex-end;
+}
+h4{
+    padding-right: 10px;
+}
+a{
+    background-color: orangered;
+    color: white;
+    border: none;
+}
+.card{
+    margin-left: 80px;
+    padding-top: 80px;
+}
